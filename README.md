@@ -28,7 +28,7 @@ just builds worth your weekend.
 ### More TinkerNews
 
 - 🗂 **[Issue archive & topic hubs](https://www.tinkernews.com/archive?utm_source=github_profile&utm_campaign=profile)** — browse every build by topic
-- 🧮 **[Free maker tools](https://www.tinkernews.com/tools/led-resistor-calculator?utm_source=github_profile&utm_campaign=profile)** — LED resistor calculator & friends
+- 🧮 **[Free maker tools](https://tinkernews.github.io/tools/?utm_source=github_profile&utm_campaign=profile)** — ESP32 pinout with safe-GPIO flags, resistor color code, IoT battery life, WS2812B power, voltage drop — free, no signup
 - 📨 **[Submit your build](https://www.tinkernews.com/submit?utm_source=github_profile&utm_campaign=profile)** — get featured in an issue
 - 🤝 **[Sponsor an issue](https://www.tinkernews.com/sponsor?utm_source=github_profile&utm_campaign=profile)** — reach makers who buy hardware
 
